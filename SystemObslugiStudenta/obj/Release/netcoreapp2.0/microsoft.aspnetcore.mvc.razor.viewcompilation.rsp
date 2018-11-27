@@ -1,0 +1,15 @@
+C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=SystemObslugiStudenta
+--content-root=C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta
+--file=C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\Views\Account\AccessDenied.cshtml
+--file=C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\Views\Account\SignedOut.cshtml
+--file=C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\Views\Home\About.cshtml
+--file=C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\Views\Home\Contact.cshtml
+--file=C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\Views\Home\Index.cshtml
+--file=C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\Views\Shared\Error.cshtml
+--file=C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\Views\Shared\_Layout.cshtml
+--file=C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\Views\Shared\_LoginPartial.cshtml
+--file=C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\Views\_ViewImports.cshtml
+--file=C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\Views\_ViewStart.cshtml

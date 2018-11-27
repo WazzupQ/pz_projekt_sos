@@ -1,0 +1,12 @@
+C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\bin\Debug\netcoreapp2.0\SystemObslugiStudenta.deps.json
+C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\bin\Debug\netcoreapp2.0\SystemObslugiStudenta.runtimeconfig.json
+C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\bin\Debug\netcoreapp2.0\SystemObslugiStudenta.runtimeconfig.dev.json
+C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\bin\Debug\netcoreapp2.0\SystemObslugiStudenta.dll
+C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\bin\Debug\netcoreapp2.0\SystemObslugiStudenta.pdb
+C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\obj\Debug\netcoreapp2.0\SystemObslugiStudenta.csprojResolveAssemblyReference.cache
+C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\obj\Debug\netcoreapp2.0\SystemObslugiStudenta.csproj.CoreCompileInputs.cache
+C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\obj\Debug\netcoreapp2.0\SystemObslugiStudenta.AssemblyInfoInputs.cache
+C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\obj\Debug\netcoreapp2.0\SystemObslugiStudenta.AssemblyInfo.cs
+C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\obj\Debug\netcoreapp2.0\SystemObslugiStudenta.dll
+C:\Workspace\SoS\SystemObslugiStudenta\SystemObslugiStudenta\obj\Debug\netcoreapp2.0\SystemObslugiStudenta.pdb
